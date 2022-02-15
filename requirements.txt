@@ -87,3 +87,4 @@ whitenoise==6.0.0
 wrapt==1.13.3
 wsproto==1.0.0
 zstandard==0.15.2
+pywin==303
